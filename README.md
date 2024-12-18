@@ -16,5 +16,6 @@ The rapid proliferation of fake news has become a pressing issue in today's digi
 | Nebiyat Bekele Eticha    | ETS1052/13  |
 | Nebiyu Zewge Gedlu       | ETS1051/13  |
 | Sabona Misgana Kebede    | ETS1114/13  |
+| Haileamlak Desalegn      | ETS0326/12  |
 
 ---
